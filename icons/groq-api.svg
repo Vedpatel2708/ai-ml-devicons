@@ -1,0 +1,17 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"
+ stroke="#000" fill="none" stroke-width="2.2"
+ stroke-linecap="round" stroke-linejoin="round">
+
+  <!-- API angle brackets -->
+  <path d="M32 44 L20 64 L32 84" />
+  <path d="M96 44 L108 64 L96 84" />
+
+  <!-- API endpoint container -->
+  <rect x="44" y="40" width="40" height="48" rx="6"/>
+
+  <!-- /api JSON lines -->
+  <path d="M54 56 L74 56" />
+  <path d="M54 64 L74 64" />
+  <path d="M54 72 L74 72" />
+</svg>
+
